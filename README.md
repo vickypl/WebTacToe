@@ -26,7 +26,7 @@ This is web based version of tic tac toe game, this contains real-time response 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/vickypl/WebTacToe.git
 ```
 
 Go to the project directory
