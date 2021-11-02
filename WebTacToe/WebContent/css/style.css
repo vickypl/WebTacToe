@@ -1,0 +1,62 @@
+body ,html {
+	background: -webkit-linear-gradient(to right, #00b09b, #96c93d); /* Chrome 10-25, Safari 5.1-6 */
+  	background: linear-gradient(to right, #00b09b, #96c93d);
+}
+.webtitle {
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bold;
+  	font-size: 50px;
+  	background: -webkit-linear-gradient(#ff1100, #3700fc);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.plwith {
+	font-size: 40px;
+	margin-bottom: 10px;
+	font-family: cursive;
+  background: -webkit-linear-gradient(#3800d3, #00fd61);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.indexdiv {
+    border-radius: 4px;
+    padding: 50px;
+    margin: 10% auto;
+    text-align: center;
+    width: 90%;
+    height: 90%;
+    box-shadow: 3px 5px 5px 5px black;
+}
+.maindiv {
+    border-radius: 4px;
+    padding: 50px;
+    margin: 1% auto;
+    text-align: center;
+    width: 90%;
+    height: 90%;
+    box-shadow: 3px 5px 5px 5px black;
+}
+.maintable {
+    box-shadow: 3px 5px 5px 5px black;
+    border-radius: 4px;
+    margin: 0% auto;
+    text-align: center;
+    border: double;
+    font-size: 80px;
+    height: 100%;
+    width: 100%;
+}
+.gtd {
+    height: 150px;
+    border: solid;
+    width: 3000px;
+}
+.gtd:hover {
+    border-color: red;
+}
+.onlineimg {
+	width: 50px;
+	height: 25px;
+}
